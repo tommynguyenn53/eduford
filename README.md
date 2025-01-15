@@ -6,7 +6,7 @@ This project is a mock design of a university website, built using HTML, CSS, an
 
 To view the live version of this project, simply click on the link below:
 
-[View the University Website Design](#https://eduford-psi.vercel.app/)
+[View the University Website Design](https://eduford-psi.vercel.app/)
 
 ## Project Overview
 
